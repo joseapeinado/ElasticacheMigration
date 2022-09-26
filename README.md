@@ -32,7 +32,7 @@ Counting keys to migrate...
 ```
 
 ## Options
-You cn check the available options with the `--help` flag
+You can check the available options with the `--help` flag
 
 ```bash
 $ python3 migrate_keys.py --help
